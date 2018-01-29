@@ -1,0 +1,16 @@
+build
+build.cfg
+.pydevproject
+.project
+.idea
+*.pyc
+*.pyd
+*.dll
+*.so
+locale
+*.exe
+.DS_Store
+po/countries/countries.pot
+po/attributes/attributes.pot
+scripts/picard
+.*.sw[a-z]
